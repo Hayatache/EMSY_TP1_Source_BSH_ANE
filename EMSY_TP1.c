@@ -19,8 +19,12 @@
                     // Nouveauté du VC++ 2005, 2008, 2010 et 2015 : le scanf_s remplace scanf
 
 //-- programme principale --// 
-int main(void)
+int main()
 {
-
+  int longueur = 10;
+  int largueur = 100;
+  int surface = 0;
+  surface = longueur * largueur;
+  printf("votre surface est de : %d \n",surface);
   return(0);
 }
