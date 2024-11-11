@@ -2,7 +2,7 @@
 # EMSY - TP1 - 2024 - 2025
 ## Infos Pratiques - Bonnes pratiques Git
 
-Ce projet contient une liste de commandes Linux utilisées dans le cadre du TP1 d'EMSY. Chaque commande est accompagnée d'une explication pour aider à comprendre son utilité.
+Ce projet contient une liste de commandes Linux utilisées dans le cadre du TP1 d'EMSY. Chaque commande est accompagnée d'une explication pour aider à la comprendre.
 
 ## Table des matières
 
@@ -14,16 +14,16 @@ Ce projet contient une liste de commandes Linux utilisées dans le cadre du TP1 
 ### Commandes de navigation et gestion de répertoires
 
 - `cd /`  
-  Change le répertoire de travail vers la racine.
+  Change le répertoire vers la racine.
 
 - `ls -l`  
-  Affiche une liste détaillée des fichiers et dossiers dans le répertoire actuel, y compris les permissions et propriétaires.
+  Affiche une liste détaillée des fichiers et dossiers dans le répertoire actuel.
 
 - `cd /home`  
-  Change le répertoire de travail vers `/home`.
+  Change le répertoire vers `/home`.
 
 - `sudo mkdir EMSY_BSH_ANE`  
-  Crée un nouveau dossier `EMSY_BSH_ANE` dans `/home` avec les privilèges administrateur.
+  Crée un nouveau dossier `EMSY_BSH_ANE` dans `/home`.
 
 - `sudo chown live:live EMSY_BSH_ANE`  
   Attribue les droits de propriétaire du dossier `EMSY_BSH_ANE` à l’utilisateur `live`.
@@ -78,7 +78,7 @@ Ce projet contient une liste de commandes Linux utilisées dans le cadre du TP1 
   Retourne dans le répertoire `/home`.
 
 - `sudo mkdir EMSY_BSH_ANE`  
-  Crée le dossier `EMSY_BSH_ANE` dans `/home` avec des droits administratifs.
+  Crée le dossier `EMSY_BSH_ANE` dans `/home` .
 
 - `sudo chown hayatache:hayatache EMSY_BSH_ANE`  
   Attribue les droits de propriétaire du dossier `EMSY_BSH_ANE` à l’utilisateur `hayatache`.
