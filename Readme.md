@@ -96,9 +96,9 @@ Ce projet contient une liste de commandes Linux utilisées dans le cadre du TP1 
   Ouvre le fichier `EMSY_TP1.c` dans l'éditeur `nano` pour modifications.
 
 - `gcc -Wall -o EMSY_TP1.o -c EMSY_TP1.c`
-  
+  verifie le fichier pour qu'il n'y ait pas d'erreur et crée un fichier compilé ( le fichier.o )
 - `gcc -o EMSY_TP1 EMSY_TP1.o`
-  
+  genère un fichier executable
 - `./EMSY_TP1`
   compile et excecute le code
 
