@@ -95,6 +95,13 @@ Ce projet contient une liste de commandes Linux utilisées dans le cadre du TP1 
 - `nano EMSY_TP1.c`  
   Ouvre le fichier `EMSY_TP1.c` dans l'éditeur `nano` pour modifications.
 
+- `gcc -Wall -o EMSY_TP1.o -c EMSY_TP1.c`
+  
+- `gcc -o EMSY_TP1 EMSY_TP1.o`
+  
+- `./EMSY_TP1`
+  compile et excecute le code
+
 ## Sources Utilisées
 
 - **Commande `chown`** : [Tutoriel vidéo sur YouTube](https://youtu.be/T5L6SZE_cpE?si=AUSUnvYp-ShRd3Mh)
